@@ -1,0 +1,8 @@
+[submodule "Backend-Java"]
+	path = Backend-Java
+	url = https://github.com/Haroon-Rasheed-Butt/flc-movie-ticketing-system-backend.git
+	branch = main
+[submodule "Frontend-Angular"]
+	path = Frontend-Angular
+	url = https://github.com/Haroon-Rasheed-Butt/flc-movie-ticketing-system-frontend-angular.git
+	branch = main
