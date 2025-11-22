@@ -1,6 +1,5 @@
 
 -- Movie Ticketing System SQL Schema (Based on Provided ERD)
-
 -- ===========================
 -- Table: Account
 -- ===========================
